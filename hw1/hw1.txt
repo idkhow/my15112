@@ -1,0 +1,17 @@
+Can you guys do Assignment 1 and push your code to github? (~1 hr)
+Follow the guide below on git.
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+hw1: https://www.cs.cmu.edu/~112/schedule.html (easy)
+
+At the end you should have made a new repo (named what ever, my15122) that contains your hw1 code pushed into any branch, that is then pushed into the branch 'master'. 
+
+Git is a SCM = Source Code Management 
+
+Coding is important but also knowing code management tool is very import. Especially when your code base becomes larger and you work with others.
+
+Send me the link to the github repo with hw1. Also answer this question: 
+
+a. Whats wrong with this code? b. How to fix it.
+fav_number = input("type in your favorite number and press enter: ")
+print("Your favorite number plus 2 is: ", fav_number + 2)
